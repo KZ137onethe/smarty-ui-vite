@@ -8,5 +8,4 @@ package-lock.json
 .vercel
 dist
 .idea
-/test
 *.zip
