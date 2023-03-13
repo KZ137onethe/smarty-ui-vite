@@ -4,4 +4,4 @@
 
 ##### 对应以下学习的篇章
 
-* 单元测试 (二)： 搭建Vitest的单元测试环境
+* 规范化： Eslint + Prettier + Husky
